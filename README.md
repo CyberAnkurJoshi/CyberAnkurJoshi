@@ -1,6 +1,6 @@
-<div align="center">
-    <img height="300" width="500" src="https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif" />
-</div>
+<p align="center">
+    <img src="https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif" width="500" height="300" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Ankur Joshi</h1>
 <h3 align="center">Cybersecurity Professional Mentor and Content Creator with of experience in areas such as penetration testing, threat analysis, and incident response. I am passionate about empowering the next generation of cybersecurity professionals through hands-on training, workshops, and educational resources. I create tutorials, articles, and videos that simplify complex cybersecurity concepts, making them accessible to learners at all levels. I am committed to continuous learning and staying updated with the latest trends in the field.</h3>
