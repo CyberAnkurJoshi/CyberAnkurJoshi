@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif" width="500" height="300" />
+    <img src="https://github.com/CyberAnkurJoshi/CyberAnkurJoshi/blob/main/Banner.gif" width="500" height="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ankur Joshi</h1>
