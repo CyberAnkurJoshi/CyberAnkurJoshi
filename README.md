@@ -6,6 +6,9 @@
 <h3 align="center">Cybersecurity Professional Mentor and Content Creator with of experience in areas such as penetration testing, threat analysis, and incident response. I am passionate about empowering the next generation of cybersecurity professionals through hands-on training, workshops, and educational resources. I create tutorials, articles, and videos that simplify complex cybersecurity concepts, making them accessible to learners at all levels. I am committed to continuous learning and staying updated with the latest trends in the field.</h3>
 
 # 🏆 Achievements
+- Linkedin Top Cybersecurity Voice
+- Linkedin Top Information Security Voice
+# 🏆 Certificates
 - Certified Ethical Hacker (CEH) ![CEH](https://img.shields.io/badge/Certified_Ethical_Hacker-%23FF0000.svg?logo=certified-ethical-hacker&logoColor=white)
 
 
